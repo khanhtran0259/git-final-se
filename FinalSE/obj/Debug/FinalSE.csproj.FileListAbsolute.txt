@@ -1,0 +1,11 @@
+C:\Baitap\C#\Final\FinalSE\FinalSE\FinalSE\bin\Debug\FinalSE.exe.config
+C:\Baitap\C#\Final\FinalSE\FinalSE\FinalSE\bin\Debug\FinalSE.exe
+C:\Baitap\C#\Final\FinalSE\FinalSE\FinalSE\bin\Debug\FinalSE.pdb
+C:\Baitap\C#\Final\FinalSE\FinalSE\FinalSE\obj\Debug\FinalSE.csproj.AssemblyReference.cache
+C:\Baitap\C#\Final\FinalSE\FinalSE\FinalSE\obj\Debug\FinalSE.csproj.SuggestedBindingRedirects.cache
+C:\Baitap\C#\Final\FinalSE\FinalSE\FinalSE\obj\Debug\FinalSE.Form1.resources
+C:\Baitap\C#\Final\FinalSE\FinalSE\FinalSE\obj\Debug\FinalSE.Properties.Resources.resources
+C:\Baitap\C#\Final\FinalSE\FinalSE\FinalSE\obj\Debug\FinalSE.csproj.GenerateResource.cache
+C:\Baitap\C#\Final\FinalSE\FinalSE\FinalSE\obj\Debug\FinalSE.csproj.CoreCompileInputs.cache
+C:\Baitap\C#\Final\FinalSE\FinalSE\FinalSE\obj\Debug\FinalSE.exe
+C:\Baitap\C#\Final\FinalSE\FinalSE\FinalSE\obj\Debug\FinalSE.pdb
